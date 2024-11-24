@@ -1,20 +1,19 @@
 # Portfolio Webpage
 
-## Overview
+This page is a personal portfolio designed to showcase my professional journey, skills, and achievements. It's a work in progress, continually evolving as I refine its content and features. The goal is to create a dynamic space where I can highlight my expertise, share insights, and provide an engaging experience for visitors. Stay tuned as I add more updates and polish the final version!
 
-This project is a portfolio webpage showcasing my skills, projects, and experiences. It utilizes modern web technologies and design practices to create a responsive and visually appealing site.
+[Live website here](https://imoralesdev-portfolio-nvh6wbi2q-imoralesdevs-projects.vercel.app/)
 
 ## Table of Contents
+* [Images](#images)
+  
+## Images
 
-- [Installation](#installation)
-- [Usage](#usage)
-- [Technology Stack](#technology-stack)
-- [Contributing](#contributing)
-- [License](#license)
+![example 1](https://raw.githubusercontent.com/imoralescs/images/refs/heads/main/personal/Screenshot%20from%202024-11-24%2001-01-37.png))
 
-## Installation
+## Getting Started
 
-To get started with the project, follow these steps:
+### To get started with the project, follow these steps:
 
 1. Clone the repository:
 
@@ -40,7 +39,7 @@ To get started with the project, follow these steps:
     npm run dev
     ```
 
-## Usage
+### Usage
 
 After running the development server, open your browser and navigate to ```http://localhost:3000``` to view the portfolio webpage. You can explore the various sections, including projects, skills, and contact information.
 
